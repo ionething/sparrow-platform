@@ -1,4 +1,4 @@
-package com.github.ionething.sparrowplatform.monitor;
+package com.github.ionething.sparrowplatform;
 
 import de.codecentric.boot.admin.server.config.AdminServerProperties;
 import de.codecentric.boot.admin.server.config.EnableAdminServer;

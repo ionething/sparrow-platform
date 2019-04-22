@@ -1,4 +1,4 @@
-package com.github.ionething.sparrowplatform.monitor;
+package com.github.ionething.sparrowplatform;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
